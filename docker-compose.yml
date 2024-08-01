@@ -1,6 +1,6 @@
 services:
   app:
-    build: "https://github.com/cardugarte/bot-ranks.git"
+    build: "https://github.com/lacrypta/bot-ranks.git"
     env_file:
       - ./.env
     environment:
